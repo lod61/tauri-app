@@ -4,12 +4,12 @@ Based on Tauri + React + Vite
 
 ## Getting Started
 
-`npm install`
+[prerequisites](https://tauri.app/v1/guides/getting-started/prerequisites/)
 
 ## dev
 
 `npm run dev`
 
-## bundle
+## bundle run dev
 
-`npm run tauri`
+`npm run tauri dev`
